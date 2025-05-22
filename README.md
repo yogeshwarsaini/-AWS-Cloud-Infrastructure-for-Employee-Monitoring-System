@@ -53,7 +53,7 @@ terraform apply -var-file="environments/dev/terraform.tfvars"
 ---
 
 ## 📥 Download File
-[Click here to download the file from Mega.nz](https://mega.nz/file/ABC12345#XYZ987654abc)
+[Click here to download the file from Mega.nz](https://mega.nz/folder/ZjslkAQY#OTpuB7o-dkpL-ggHuGscbA)
 
 ---
 
